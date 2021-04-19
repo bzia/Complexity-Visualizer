@@ -43,5 +43,4 @@ def get_file_column_averages(filename):
 
 if __name__ == "__main__":
     print(get_file_column_averages('optimizedBubbleSort'))
-    # the above line returns a list of column averages as 
-    # described in the assignment details.
+    # the above line returns a list of column averages
